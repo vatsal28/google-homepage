@@ -1,0 +1,13 @@
+#logo-input{
+margin:auto;
+  border: 3px solid green;
+}
+img{
+  display:block;
+  margin:auto;
+}
+#interactive{
+  margin:auto;
+  border:3px solid blue;
+  text-align:center;
+}
