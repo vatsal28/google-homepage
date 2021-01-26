@@ -1,13 +1,31 @@
+#gmail-images{
+    position:fixed;
+    top:0;
+    right:0;
+/*     width:100%; */
+/*     z-index:100; */
+}
+#header-links{
+    position:fixed;
+    top:0;
+    left:0;
+/*     width:100%; */
+/*     z-index:100; */
+}
 #logo-input{
-margin:auto;
-  border: 3px solid green;
-}
-img{
-  display:block;
-  margin:auto;
-}
-#interactive{
-  margin:auto;
-  border:3px solid blue;
+  position:fixed;
+  margin-left:auto;
+  margin-right:auto;
   text-align:center;
+  top:40%;
+  left:40%;
+}
+#bottom-links{
+  position:fixed;
+/*   bottom:0; */
+/*   top:50%; */
+  bottom:0;
+/*   color:red; */
+/*   border:2px solid red; */
+
 }
